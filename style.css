@@ -1,0 +1,72 @@
+body{
+  background-image: url("fruits-vegetables.jpg");
+  background-size: 1680px,1680px;
+  padding: 3vw;
+  background-repeat: repeat;
+}
+
+h1{
+  font-family: 'Galada';
+  font-size: 150px;
+  color: #0aa11e;
+  margin-left: 0px;
+}
+
+h2{
+  margin-left: 200px;
+  font-family: 'Aclonica';
+  font-size: 50px;
+  color: #888c3b;
+
+
+}
+
+h3{
+  margin-left: 200px;
+  font-family: 'Lacquer';
+  font-size: 50px;
+  color: #1c4f36;
+}
+
+h4{
+  margin-left: 200px;
+  font-family: 'Lacquer';
+  font-size: 50px;
+  color: #9eb0a7;
+}
+
+h5{
+  margin-left: 200px;
+  font-family: 'Lacquer';
+  font-size: 50px;
+  color: #1c4f36;
+}
+
+h6{
+  margin-left: 200px;
+  font-family: 'Lacquer';
+  font-size: 50px;
+  color: #9eb0a7;
+}
+
+h7{
+  margin-left: 200px;
+  font-family: 'Lacquer';
+  font-size: 50px;
+  color: #1c4f36;
+}
+
+h8{
+  margin-left: 200px;
+  font-family: 'Lacquer';
+  font-size: 50px;
+  color: #9eb0a7;
+}
+
+p{
+  font-family: 'Caveat';
+  margin-left: 100px;
+  font-size: 40px;
+  color: #607363;
+
+}
